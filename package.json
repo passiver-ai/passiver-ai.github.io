@@ -9,7 +9,7 @@
     "build": "node ./src/cleanPublic.js && npm run build:rollup && npm run build:html",
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
-    "deploy": "git commit -a -m 'deployment' && git push",
+    "deploy": "git add . && git commit -a -m 'deployment' && git push",
     "dev": "rollup  -c -w --no-watch.clearScreen",
     "serve": "node ./src/cleanPublic.js && npm run build:rollup && NODE_ENV=production node ./src/server.js",
     "esbuild": "node esbuild",
