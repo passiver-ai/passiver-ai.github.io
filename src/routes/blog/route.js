@@ -12,6 +12,12 @@ module.exports = {
   // This is telling the simple markdown plugin, which route to control.
 
   data: {},
-  all: () => [],
-  permalink: '/passiver/blog/:slug/',
+  all: async () => {
+    // 모든 blog-name, title(slug) 리턴 from db
+
+    return [
+      { blogName: 'passiver', slug: 'getting-started' }
+    ];
+  },
+  permalink: '/@/:blogName/:slug/',
 };
