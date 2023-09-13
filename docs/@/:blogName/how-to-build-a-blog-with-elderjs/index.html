@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Elder.js Route: An Overview</title><!-- HEAD_svelte-hnwfsx_START --><meta name="description" content="A Simple Route"><link href="https://passiver-ai.github.io/simple/" rel="canonical"><!-- HEAD_svelte-hnwfsx_END --><!-- HEAD_svelte-9lbg0x_START --><script src="https://cdn.tailwindcss.com"></script><script>tailwind.config = {
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>How to Build a Blog With Elder.js</title><!-- HEAD_svelte-1dene28_START --><meta name="description" content="Building a simple blog with Elder.js is easy. Just toss a few markdown files in a folder of this project!"><link href="https://passiver-ai.github.io/@/:blogName/how-to-build-a-blog-with-elderjs/" rel="canonical"><!-- HEAD_svelte-1dene28_END --><!-- HEAD_svelte-9lbg0x_START --><script src="https://cdn.tailwindcss.com"></script><script>tailwind.config = {
       darkMode: 'class',
       // plugins: [typographyPlugin],
       theme: {
@@ -20,7 +20,7 @@
         // typography: typographyStyles,
       },
     };
-  </script><!-- HEAD_svelte-9lbg0x_END --><link rel="stylesheet" href="/_elderjs/assets/svelte-2109b1d0.css" media="all" /><style></style></head><body class="simple">
+  </script><!-- HEAD_svelte-9lbg0x_END --><link rel="stylesheet" href="/_elderjs/assets/svelte-e9d8f298.css" media="all" /><style></style></head><body class="blog">
 
 
 <div class="flex h-full bg-zinc-50 dark:bg-black"><div class="flex w-full"><div class="fixed inset-0 flex justify-center sm:px-8"><div class="flex w-full max-w-7xl lg:px-8"><div class="w-full bg-white ring-1 ring-zinc-100 dark:bg-zinc-900 dark:ring-zinc-300/20"></div></div></div>
@@ -51,31 +51,30 @@
 
       <main class="flex-auto"><div class="sm:px-8 mt-16 sm:mt-32"><div class="mx-auto w-full max-w-7xl lg:px-8"><div class="relative px-4 sm:px-8 lg:px-12"><div class="mx-auto max-w-2xl lg:max-w-5xl"><!-- HTML_TAG_START -->
 
-<a href="/" class="svelte-bvr7j8">← Home</a>
-
-<h1>Elder.js Route: An Overview</h1>
-
-<ul><li><!-- HTML_TAG_START -->Step 1: All routes require a <span class="code">route.js</span> and a svelte template. Look at <span class="code">./src/routes/simple/route.js</span> to follow along.<!-- HTML_TAG_END --></li><li><!-- HTML_TAG_START -->Step 2: We define an <span class="code">all()</span> function that returns an array of <span class="code">request</span> objects.<!-- HTML_TAG_END --></li><li><!-- HTML_TAG_START -->Step 3: We define a <span class="code">permalink</span> string or function that transforms the <span class="code">request</span> objects from <span class="code">all()</span> into permalinks.<!-- HTML_TAG_END --></li><li><!-- HTML_TAG_START -->Step 4: We define a data function that makes data available in your svelte template.<!-- HTML_TAG_END --></li></ul>
-
-<!-- HTML_TAG_START -->
-      <h2>Elder.js' all() Function</h2>
-      <p>Elder.js is a bit different from most frameworks in that for pages to be statically generated it asks you to define all of your <span class="code">request</span> objects in your <span class="code">all()</span> function. While this step may seem a bit different from what you are used to it prevents Elder.js from having to crawl your site to render it which dramatically speeds up the build process.</p>
-  
-      <h2>Elder.js' Permalink Strategy</h2>
-      <p>Elder.js' routing uses the common placeholder strategy that looks like: <span class="code">/blog/:slug/</span>.</p>
-      <p>For most projects the placeholder strategy works well enough, but If you need more control you can also use a function such as <span class="code">({ request }) => `/simple/`;</span></p>
-
-      <h2>Elder.js' Data Function </h2>
-      <p>The <span class="code">data</span> function is where your "business logic" should live. This is where you prepare all of the data needed for your page to be rendered. This data is passed directly to the route's Svelte template.</p>
-
-      <h2>Dynamic Routes in Elder.js</h2>
-      <p>If you are looking to use Elder.js as a server (SSR) instead of a static site generator you can set <span class="code">dynamic: true</span> in your route definition and any parameters extracted from your route definition will be available on the <span class="code">request</span>  object. Please note that dynamic routing requires using a <span class="code">/:placeholder/</span> permalink strategy.  </p>
-
-      <h2>Learning Exercise: </h3>
-      <p>Try adding <span class="code">{ slug: "another-request" }</span> to the <span class="code">all()</span> function in <span class="code">./src/simple/route.js</span> 
-      and then visit /another-request/ to see that you added another page with the same data.</p>
-      
-      <!-- HTML_TAG_END --><!-- HTML_TAG_END --></div></div></div></div></main>
+<div class="xl:relative"><div class="mx-auto max-w-2xl"><button type="button" aria-label="Go back to articles" class="group mb-8 flex h-10 w-10 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 transition dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0 dark:ring-white/10 dark:hover:border-zinc-700 dark:hover:ring-white/20 lg:absolute lg:-left-5 lg:-mt-2 lg:mb-0 xl:-top-1.5 xl:left-0 xl:mt-0"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="h-4 w-4 stroke-zinc-500 transition group-hover:stroke-zinc-700 dark:stroke-zinc-500 dark:group-hover:stroke-zinc-400"><path d="M7.25 11.25 3.75 8m0 0 3.5-3.25M3.75 8h8.5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+    <article><header class="flex flex-col"><h1 class="mt-6 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">How to Build a Blog With Elder.js</h1>
+        <time datetime="2022-09-05" class="order-first flex items-center text-base text-zinc-400 dark:text-zinc-500"><span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span><span class="ml-3">September 5, 2022</span></time></header>
+      <div class="mt-8 prose dark:prose-invert" data-mdx-content="true"><!-- HTML_TAG_START --><p>One of the most popular use cases of static site generators is to build a blog.</p>
+<p>So we figured why not offer a blog right out of the box on the starter template?</p>
+<p>This guide will show you how to customize your Elder.js blog.</p>
+<h2 id="this-page-is-editable">This Page is Editable</h2>
+<p>If you've gotten this starter template running, then chances are you know what markdown is. If you don't here is <a href="https://medium.com/@itsjzt/beginner-guide-to-markdown-229adce30074">a good beginner's guide to it.</a></p>
+<p>With that out of the way, let's talk about how you'll edit pages on your blog.</p>
+<p>To start, open up the markdown file powering this page at: <code>./src/routes/blog/how-to-build-a-blog-with-elderjs.md</code></p>
+<p>Once you've got it open, make some small changes, save the file and restart the server.
+When you reload this page you should see your changes.</p>
+<h2 id="adding-markdown-files-to-your-blog">Adding Markdown Files to Your Blog</h2>
+<p>Once you've edited this page, try duplicating and renaming one of the files in the <code>./src/routes/blog/</code> folder. Give the new file name anything you'd like.</p>
+<p>Once you've done that, restart the server (or let it restart if you are using the <code>npm run dev</code> command) and then navigate to the homepage. Boom! You should see your new blog entry.</p>
+<p>It is really that simple.</p>
+<h2 id="customizing-your-design">Customizing Your Design</h2>
+<p>Without making this guide 1000s of words long, basically all templating and design for this site is done using Svelte.</p>
+<p>This page is being built with a Svelte template that lives at <code>./src/routes/blog/Blog.svelte</code>. There is also a components folder at ``./src/components/` where you can add reusable components.</p>
+<p>Svelte files in either of these locations will be bundled by the default Rollup.js included with this script. (run by typing <code>npm run dev</code>).</p>
+<p>Customizing your design is up to you, but in general if you're comfortable with JS/CSS/HTML you'll love the beauty that Svelte brings to the development workflow.</p>
+<h2 id="whats-next">What's Next?</h2>
+<p>If you're interested in further exploring how this template is working, continue reading the <a href="/getting-started/">guide on getting started with Elder.js</a>.</p>
+<!-- HTML_TAG_END --></div></article></div></div><!-- HTML_TAG_END --></div></div></div></div></main>
 
       <footer class="mt-32 flex-none"><div class="sm:px-8"><div class="mx-auto w-full max-w-7xl lg:px-8"><div class="border-t border-zinc-100 pb-16 pt-10 dark:border-zinc-700/40"><div class="relative px-4 sm:px-8 lg:px-12"><div class="mx-auto max-w-2xl lg:max-w-5xl"><div class="flex flex-col items-center justify-between gap-6 sm:flex-row"><div class="flex flex-wrap justify-center gap-x-6 gap-y-1 text-sm font-medium text-zinc-800 dark:text-zinc-200"><a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/about">About</a><a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/projects">Projects</a><a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/speaking">Speaking</a><a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/uses">Uses</a></div>
                     <p class="text-sm text-zinc-400 dark:text-zinc-500">© 2023 Spencer Sharp. All rights reserved.
