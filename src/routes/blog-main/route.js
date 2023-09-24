@@ -5,9 +5,12 @@ module.exports = {
   all: async () => {
 
     // 모든 blog-name을 리턴 from db
+    const blogPostJson = await fetch(`http://127.0.0.1:8080/api/workspace/all/blog-campaign/post`).then((res) => res.json());
+    console.log(blogPostJson);
 
     return [
-      { blogName: 'passiver' }
+      { blogName: 'passiver' },
+      // { blogName: 'passive-income-master' },
     ];
   },
   // the permalink function takes a 'request' object and returns a relative permalink. In this case "/"
