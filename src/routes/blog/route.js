@@ -13,18 +13,16 @@ module.exports = {
 
   data: {},
   all: async () => {
-    // const blogPostJson = await fetch(`http://127.0.0.1:8080/api/workspace/all/blog-campaign/post`).then((res) => res.json());
-    // console.log('=============');
-    // console.log(blogPostJson);
-    //
-    // return blogPostJson;
-    return [
-      { blogName: 'passiver', slug: 'unraveling-the-soul-of-korean-cooking-top-10-korean-street-foods' },
-      // {
-      //   blogName: 'passive-income-master',
-      //   slug: 'passive-income-master_getting-started',
-      // },
-    ];
+    const blogPostJson = await fetch(`http://127.0.0.1:8080/api/workspace/all/blog-campaign/blog/post`).then((res) => res.json());
+
+    return blogPostJson;
   },
-  permalink: '/@/:blogName/:slug',
+  // permalink: '/@/:blogName/:slug',
+  permalink: ({ request, settings, helpers }) => {
+    if (!request.blogName) {
+      return `/@/${(1000000 * Math.random()) | 0}_${request.slug}`;
+    }
+
+    return `/@${request.blogName}/${request.slug}`;
+  },
 };

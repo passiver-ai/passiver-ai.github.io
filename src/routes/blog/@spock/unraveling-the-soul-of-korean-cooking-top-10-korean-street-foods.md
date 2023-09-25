@@ -1,8 +1,8 @@
 ---
 title: 'Unraveling the Soul of Korean Cooking: Top 10 Korean Street Foods'
 excerpt: 'Unraveling the Soul of Korean Cooking: Top 10 Korean Street Foods'
-author: Passiver
-# slug: passiver_getting-started
+author: spock
+# slug: unraveling-the-soul-of-korean-cooking-top-10-korean-street-foods
 ---
 
 ## Introduction to the Vibrant World of Korean Street Food
@@ -188,9 +188,9 @@ Hotteok is a sweet and indulgent Korean street food that is perfect for satisfyi
 - 1 cup of warm water
 - 2 tablespoons of vegetable oil
 - Filling:
-    - 1/2 cup of brown sugar
-    - 1 teaspoon of ground cinnamon
-    - 1/4 cup of chopped nuts (peanuts or walnuts)
+  - 1/2 cup of brown sugar
+  - 1 teaspoon of ground cinnamon
+  - 1/4 cup of chopped nuts (peanuts or walnuts)
 
 #### Instructions:
 
@@ -215,19 +215,19 @@ Understanding Korean Cooking Techniques
 Korean cuisine is known for its bold flavors and unique cooking techniques. To truly master Korean cooking, it is essential to understand these techniques and how they contribute to the overall taste and texture of the dish. Here are a few key cooking techniques used in Korean cuisine:
 
 1. Stir-frying (Bokkeum):
-   Stir-frying is a common cooking technique in Korean cuisine. It involves quickly cooking ingredients in a hot pan or wok with a small amount of oil. This technique allows the flavors to meld together while preserving the natural textures of the ingredients. Popular stir-fried dishes in Korean street food include Japchae (stir-fried glass noodles) and Bulgogi (marinated beef stir-fry).
+Stir-frying is a common cooking technique in Korean cuisine. It involves quickly cooking ingredients in a hot pan or wok with a small amount of oil. This technique allows the flavors to meld together while preserving the natural textures of the ingredients. Popular stir-fried dishes in Korean street food include Japchae (stir-fried glass noodles) and Bulgogi (marinated beef stir-fry).
 
 2. Grilling (Gogi-gui):
-   Grilling is another essential cooking technique in Korean cuisine. It adds a smoky and charred flavor to the food, creating a delicious contrast. Korean barbecue, or "Gogi-gui," is a prime example of this technique, with marinated meats like Galbi (short ribs) and Samgyeopsal (pork belly) grilled to perfection. Grilling is also used for vegetables, such as Pajeon (scallion pancake) and grilled mushrooms.
+Grilling is another essential cooking technique in Korean cuisine. It adds a smoky and charred flavor to the food, creating a delicious contrast. Korean barbecue, or "Gogi-gui," is a prime example of this technique, with marinated meats like Galbi (short ribs) and Samgyeopsal (pork belly) grilled to perfection. Grilling is also used for vegetables, such as Pajeon (scallion pancake) and grilled mushrooms.
 
 3. Braising (Jjim):
-   Braising is a slow cooking method that involves simmering ingredients in a flavorful liquid. This technique allows the flavors to infuse and results in tender and succulent meat. Galbijjim (braised short ribs) and Jjimdak (braised chicken) are popular Korean street food dishes that showcase the richness and depth of flavors achieved through braising.
+Braising is a slow cooking method that involves simmering ingredients in a flavorful liquid. This technique allows the flavors to infuse and results in tender and succulent meat. Galbijjim (braised short ribs) and Jjimdak (braised chicken) are popular Korean street food dishes that showcase the richness and depth of flavors achieved through braising.
 
 4. Fermentation (Jang):
-   Fermentation is a traditional Korean technique that adds complexity to flavors. Ingredients like soybeans, chili peppers, and vegetables are fermented to create staple condiments like Doenjang (soybean paste) and Gochujang (fermented chili paste). These condiments are used in various Korean dishes to enhance the taste and provide a unique umami flavor.
+Fermentation is a traditional Korean technique that adds complexity to flavors. Ingredients like soybeans, chili peppers, and vegetables are fermented to create staple condiments like Doenjang (soybean paste) and Gochujang (fermented chili paste). These condiments are used in various Korean dishes to enhance the taste and provide a unique umami flavor.
 
 5. Steaming (Jim):
-   Steaming is a gentle cooking technique that preserves the natural flavors and nutrients of the ingredients. Steamed dishes like Mandu (dumplings) and Japchae (steamed glass noodles) are popular Korean street foods that showcase the light and delicate flavors achieved through steaming.
+Steaming is a gentle cooking technique that preserves the natural flavors and nutrients of the ingredients. Steamed dishes like Mandu (dumplings) and Japchae (steamed glass noodles) are popular Korean street foods that showcase the light and delicate flavors achieved through steaming.
 
 By understanding these cooking techniques, you can recreate the authentic flavors and textures of Korean street food in your own kitchen. Experiment with these techniques and discover the joy of Korean cooking.
 
@@ -238,36 +238,39 @@ Guide to Pairing Korean Foods
 Korean cuisine offers a wide range of flavors, from spicy and savory to sweet and tangy. To fully enjoy the diverse flavors of Korean street food, it is important to pair different dishes and ingredients in a harmonious way. Here are some tips to help you create a well-balanced and satisfying Korean meal:
 
 1. Balance Spicy with Mild:
-   Korean cuisine is known for its spicy dishes, such as Tteokbokki (spicy rice cakes) and Kimchi (fermented vegetables). To balance the heat, pair these spicy dishes with milder options like Japchae (stir-fried glass noodles) or Kongnamul Muchim (seasoned soybean sprouts). The mild flavors will help cool down your palate and enhance the overall dining experience.
+Korean cuisine is known for its spicy dishes, such as Tteokbokki (spicy rice cakes) and Kimchi (fermented vegetables). To balance the heat, pair these spicy dishes with milder options like Japchae (stir-fried glass noodles) or Kongnamul Muchim (seasoned soybean sprouts). The mild flavors will help cool down your palate and enhance the overall dining experience.
 
 2. Contrast Flavors and Textures:
-   Korean cuisine often combines contrasting flavors and textures to create a dynamic and exciting meal. For example, pair crispy and crunchy dishes like Twigim (Korean-style tempura) with soft and chewy dishes like Sundae (Korean blood sausage) for a delightful contrast. Similarly, pair tangy and refreshing dishes like Bibim Naengmyeon (spicy cold noodles) with rich and savory dishes like Jjimdak (braised chicken) for a balanced meal.
+Korean cuisine often combines contrasting flavors and textures to create a dynamic and exciting meal. For example, pair crispy and crunchy dishes like Twigim (Korean-style tempura) with soft and chewy dishes like Sundae (Korean blood sausage) for a delightful contrast. Similarly, pair tangy and refreshing dishes like Bibim Naengmyeon (spicy cold noodles) with rich and savory dishes like Jjimdak (braised chicken) for a balanced meal.
 
 3. Consider Side Dishes:
-   Korean meals are typically served with a variety of side dishes, known as Banchan. These small dishes add depth and variety to the meal. Consider pairing your main dishes with a selection of Banchan, such as Kimchi, Namul (seasoned vegetables), and Japchae, to create a well-rounded meal with different flavors and textures.
+Korean meals are typically served with a variety of side dishes, known as Banchan. These small dishes add depth and variety to the meal. Consider pairing your main dishes with a selection of Banchan, such as Kimchi, Namul (seasoned vegetables), and Japchae, to create a well-rounded meal with different flavors and textures.
 
 4. Complement with Rice and Soup:
-   Rice and soup are essential components of a Korean meal. The mild and neutral flavors of rice help balance the bold flavors of Korean dishes, while the soup provides a comforting and nourishing element. Serve your Korean street food dishes with a bowl of steamed rice and a hot bowl of Doenjang Jjigae (soybean paste soup) or Kimchi Jjigae (kimchi stew) for a complete and satisfying meal.
+Rice and soup are essential components of a Korean meal. The mild and neutral flavors of rice help balance the bold flavors of Korean dishes, while the soup provides a comforting and nourishing element. Serve your Korean street food dishes with a bowl of steamed rice and a hot bowl of Doenjang Jjigae (soybean paste soup) or Kimchi Jjigae (kimchi stew) for a complete and satisfying meal.
 
 Remember, the key to pairing Korean foods is to create a balance of flavors, textures, and temperatures. Don't be afraid to experiment and find your own unique combinations that suit your taste preferences. Enjoy the wonderful world of Korean cuisine!
 
-## Enhancing Flavor Profile Using Korean Condiments
+[SUB HEADER]
+
+Enhancing Flavor Profile Using Korean Condiments
 
 Korean cuisine is renowned for its bold and complex flavors, thanks in part to the wide variety of condiments used. These condiments add depth, spice, and tang to Korean dishes, taking them to the next level. Here are some popular Korean condiments that can elevate your cooking and transport you to the vibrant streets of Korea:
 
 1. Gochujang (Korean Chili Paste):
-   Gochujang is a staple in Korean cuisine, known for its unique combination of heat, sweetness, and umami. Made from fermented chili peppers, rice, soybeans, and salt, it adds a rich and spicy flavor to dishes like Tteokbokki, Bibimbap (mixed rice), and Jjigae (stews). Use it as a marinade, a dipping sauce, or a seasoning to add a kick to your favorite Korean street food recipes.
+Gochujang is a staple in Korean cuisine, known for its unique combination of heat, sweetness, and umami. Made from fermented chili peppers, rice, soybeans, and salt, it adds a rich and spicy flavor to dishes like Tteokbokki, Bibimbap (mixed rice), and Jjigae (stews). Use it as a marinade, a dipping sauce, or a seasoning to add a kick to your favorite Korean street food recipes.
 
 2. Doenjang (Fermented Soybean Paste):
-   Doenjang is a traditional Korean condiment made from fermented soybeans. It has a deep and savory flavor that adds richness to soups, stews, and marinades. Use it to make hearty dishes like Doenjang Jjigae (soybean paste stew) or as a base for dipping sauces.
+Doenjang is a traditional Korean condiment made from fermented soybeans. It has a deep and savory flavor that adds richness to soups, stews, and marinades. Use it to make hearty dishes like Doenjang Jjigae (soybean paste stew) or as a base for dipping sauces.
 
 3. Sesame Oil:
-   Sesame oil is widely used in Korean cuisine for its distinct nutty flavor and aroma. It is often used as a finishing oil to drizzle over dishes like Bibimbap and Japchae, adding a fragrant and toasty note. Use it sparingly as a flavor enhancer to complement the other ingredients in your Korean street food recipes.
+Sesame oil is widely used in Korean cuisine for its distinct nutty flavor and aroma. It is often used as a finishing oil to drizzle over dishes like Bibimbap and Japchae, adding a fragrant and toasty note. Use it sparingly as a flavor enhancer to complement the other ingredients in your Korean street food recipes.
 
 4. Soy Sauce:
-   Soy sauce is a versatile condiment that adds depth and saltiness to Korean dishes. It is used in marinades, stir-fries, and dipping sauces. Choose a quality Korean soy sauce for an authentic taste. Low-sodium options are available for those who prefer a milder flavor.
+Soy sauce is a versatile condiment that adds depth and saltiness to Korean dishes. It is used in marinades, stir-fries, and dipping sauces. Choose a quality Korean soy sauce for an authentic taste. Low-sodium options are available for those who prefer a milder flavor.
 
 5. Kimchi:
-   Kimchi is a staple in Korean cuisine and is loved for its spicy, tangy, and fermented flavors. It is made from fermented vegetables, most commonly cabbage, and is often served as a side dish. Use kimchi to add a tangy and vibrant element to your Korean street food recipes, or incorporate it into dishes like Kimchi Fried Rice or Kimchi Pancakes.
+Kimchi is a staple in Korean cuisine and is loved for its spicy, tangy, and fermented flavors. It is made from fermented vegetables, most commonly cabbage, and is often served as a side dish. Use kimchi to add a tangy and vibrant element to your Korean street food recipes, or incorporate it into dishes like Kimchi Fried Rice or Kimchi Pancakes.
 
 These condiments play a crucial role in Korean cooking, adding depth, complexity, and a unique flavor profile to dishes. Experiment with different combinations and find your favorite flavor combinations. Let the condiments bring the soul of Korean cooking into your kitchen!
+
