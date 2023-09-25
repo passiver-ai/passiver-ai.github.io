@@ -11,10 +11,8 @@ const fs = require('fs');
     const title = blogPostJsonItem.title;
     const slug = blogPostJsonItem.slug;
 
-    // create blog folder
-    if (!fs.existsSync(`src/routes/blog/@${blogName}`)) {
-      fs.mkdirSync(`src/routes/blog/@${blogName}`);
-    }
+    fs.rmSync(`src/routes/blog/@${blogName}`, { recursive: true, force: true });
+    fs.mkdirSync(`src/routes/blog/@${blogName}`);
 
     const blogPostDetail = await fetch(
       `http://127.0.0.1:8080/api/workspace/all/blog-campaign/blog/post/${postId}`,
@@ -22,15 +20,14 @@ const fs = require('fs');
 
     const allContent = [];
     for (let i = 1; i <= 15; i++) {
-      if(blogPostDetail['content'+i]) {
-        allContent.push(blogPostDetail['content'+i]);
+      if (blogPostDetail['content' + i]) {
+        allContent.push(blogPostDetail['content' + i]);
       }
     }
 
     // create post file
     const content = `---
 title: '${title}'
-excerpt: '${title}'
 author: ${blogName}
 # slug: ${slug}
 ---
