@@ -6,13 +6,21 @@ const fs = require('fs');
   );
 
   for (const blogPostJsonItem of blogPostJson) {
+    const blogName = blogPostJsonItem.blogName;
+    if (fs.existsSync(`src/routes/blog/@${blogName}`)) {
+      fs.rmSync(`src/routes/blog/@${blogName}`, { recursive: true, force: true });
+    }
+  }
+
+  for (const blogPostJsonItem of blogPostJson) {
     const postId = blogPostJsonItem.postId;
     const blogName = blogPostJsonItem.blogName;
     const title = blogPostJsonItem.title;
     const slug = blogPostJsonItem.slug;
 
-    fs.rmSync(`src/routes/blog/@${blogName}`, { recursive: true, force: true });
-    fs.mkdirSync(`src/routes/blog/@${blogName}`);
+    if (!fs.existsSync(`src/routes/blog/@${blogName}`)) {
+      fs.mkdirSync(`src/routes/blog/@${blogName}`);
+    }
 
     const blogPostDetail = await fetch(
       `http://127.0.0.1:8080/api/workspace/all/blog-campaign/blog/post/${postId}`,
