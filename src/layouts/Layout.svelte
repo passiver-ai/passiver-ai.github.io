@@ -61,8 +61,8 @@
               <div class="relative px-4 sm:px-8 lg:px-12">
                 <div class="mx-auto max-w-2xl lg:max-w-5xl">
                   <div class="relative flex gap-4">
-                    <div class="flex flex-1">
-                      allcontents.xyz
+                    <div class="flex flex-1 text-xl font-light">
+                      pages.network
                     </div>
                     <div class="flex flex-1 justify-end md:justify-center">
                       <div class="pointer-events-auto md:hidden" data-headlessui-state="">
