@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run dev",
     "preview": "npx sirv-cli public",
-    "build": "node create-blog-content-file.js && cp CNAME ./docs/ && node ./src/cleanPublic.js && npm run build:rollup && npm run build:html",
+    "build": "node create-blog-content-file.js && node ./src/cleanPublic.js && npm run build:rollup && npm run build:html && cp CNAME ./docs/",
     "build:rollup": "rollup -c",
     "build:html": "node ./src/build.js",
     "deploy": "git fetch && git pull && git add . && git commit -a -m 'deployment' && git push",
