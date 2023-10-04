@@ -2,6 +2,7 @@
   // import HookDetail from '../../components/HookDetail.svelte';
   // import BlogTeaser from '../../components/BlogTeaser.svelte';
   // import Clock from '../../components/Clock.svelte';
+  import Time from "svelte-time";
   export let data, helpers, settings;
 
   // add permalinks to the hook list so we can link to the posts.
@@ -39,15 +40,17 @@
                 <a href="/@{post.blogName}/{post.slug}"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                   <span class="relative z-10">{post.title}</span></a>
               </h2>
-              <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="{post.updatedAt}">
+              <div class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5">
                 <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true">
                   <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
                 </span>
-                {post.updatedAt}
-              </time>
-              <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-                {post.desc}
-              </p>
+                <Time datetime="{post.updatedAt}"></Time>
+              </div>
+              <div class="w-full overflow-hidden h-20">
+                <p class="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400 text-clip">
+                  {post.desc}
+                </p>
+              </div>
               <div aria-hidden="true" class="relative z-10 mt-4 flex items-center text-sm font-medium text-teal-500">
                 Read article
                 <svg viewBox="0 0 16 16" fill="none" aria-hidden="true" class="ml-1 h-4 w-4 stroke-current">
@@ -56,7 +59,7 @@
               </div>
             </div>
             <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="{post.updatedAt}">
-              {post.updatedAt}
+              <Time datetime="{post.updatedAt}"></Time>
             </time>
           </article>
         {/each}
