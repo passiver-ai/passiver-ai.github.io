@@ -1,7 +1,7 @@
 ---
 title: '10 Unforgettable Secrets for Perfect My Korean Kitchen Dak Galbi'
 author: 'mimis-cooking'
-meta_description: 'undefined'
+meta_description: 'null'
 # slug: 'mimis-cooking/10-unforgettable-secrets-for-perfect-my-korean-kitchen-dak-galbi'
 ---
 

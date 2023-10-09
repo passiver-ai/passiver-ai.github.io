@@ -1,7 +1,7 @@
 ---
 title: '10 Simple Korean Vegetarian Recipes: A Guide to Effortless Cooking'
 author: 'mimis-cooking'
-meta_description: 'undefined'
+meta_description: 'null'
 # slug: 'mimis-cooking/10-simple-korean-vegetarian-recipes-a-guide-to-effortless-cooking'
 ---
 

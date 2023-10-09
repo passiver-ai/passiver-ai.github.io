@@ -1,7 +1,7 @@
 ---
 title: '15 Authentic Korean Cooking Recipes You Must Try'
 author: 'mimis-cooking'
-meta_description: 'undefined'
+meta_description: 'null'
 # slug: 'mimis-cooking/15-authentic-korean-cooking-recipes-you-must-try'
 ---
 

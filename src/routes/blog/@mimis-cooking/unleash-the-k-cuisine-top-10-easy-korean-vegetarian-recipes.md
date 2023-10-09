@@ -1,7 +1,7 @@
 ---
 title: 'Unleash the K-Cuisine: Top 10 Easy Korean Vegetarian Recipes'
 author: 'mimis-cooking'
-meta_description: 'undefined'
+meta_description: 'null'
 # slug: 'mimis-cooking/unleash-the-k-cuisine-top-10-easy-korean-vegetarian-recipes'
 ---
 

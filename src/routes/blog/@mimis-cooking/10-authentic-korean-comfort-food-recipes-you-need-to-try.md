@@ -1,7 +1,7 @@
 ---
 title: '10 Authentic Korean Comfort Food Recipes You Need to Try'
 author: 'mimis-cooking'
-meta_description: 'undefined'
+meta_description: 'null'
 # slug: 'mimis-cooking/10-authentic-korean-comfort-food-recipes-you-need-to-try'
 ---
 
