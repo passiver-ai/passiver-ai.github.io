@@ -16,6 +16,7 @@ const fs = require('fs');
     const postId = blogPostJsonItem.postId;
     const blogName = blogPostJsonItem.blogName;
     const title = blogPostJsonItem.title;
+    const metaDescription = blogPostJsonItem.metaDescription;
     const slug = blogPostJsonItem.slug;
 
     if (!fs.existsSync(`src/routes/blog/@${blogName}`)) {
@@ -37,7 +38,7 @@ const fs = require('fs');
     const content = `---
 title: '${title}'
 author: '${blogName}'
-meta_description: ''
+meta_description: '${metaDescription}'
 # slug: '${blogName}/${slug}'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: '25 Unforgettable Korean Foods You Must Try: The Ultimate Guide to Korean Cooking'
 author: 'mimis-cooking'
-meta_description: ''
+meta_description: 'undefined'
 # slug: 'mimis-cooking/25-unforgettable-korean-foods-you-must-try-the-ultimate-guide-to-korean-cooking'
 ---
 

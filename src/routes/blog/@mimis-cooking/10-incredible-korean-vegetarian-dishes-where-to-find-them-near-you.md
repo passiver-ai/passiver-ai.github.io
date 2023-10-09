@@ -1,7 +1,7 @@
 ---
 title: '10 Incredible Korean Vegetarian Dishes & Where to Find Them Near You'
 author: 'mimis-cooking'
-meta_description: ''
+meta_description: 'undefined'
 # slug: 'mimis-cooking/10-incredible-korean-vegetarian-dishes-where-to-find-them-near-you'
 ---
 
