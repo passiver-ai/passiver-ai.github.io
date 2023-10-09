@@ -59,7 +59,7 @@
               </div>
             </div>
             <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="{post.updatedAt}">
-              <Time datetime="{post.updatedAt}" format="dddd @ h:mm A · MMMM D, YYYY"></Time>
+              <Time datetime="{post.updatedAt}" relative format="dddd @ h:mm A · MMMM D, YYYY"></Time>
             </time>
           </article>
         {/each}
