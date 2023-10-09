@@ -1,7 +1,8 @@
 ---
 title: '15 Authentic Korean Cooking Recipes You Must Try'
-author: mimis-cooking
-# slug: 15-authentic-korean-cooking-recipes-you-must-try
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/15-authentic-korean-cooking-recipes-you-must-try'
 ---
 
 ![Korean cuisine traditional dishes image](https://cdn.pixabay.com/photo/2015/05/02/00/57/aluminous-749358_1280.jpg)

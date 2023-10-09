@@ -1,7 +1,8 @@
 ---
 title: 'Mastering Korean Cooking: 10 Remarkable Vegetarian Recipes to Try Today'
-author: mimis-cooking
-# slug: mastering-korean-cooking-10-remarkable-vegetarian-recipes-to-try-today
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/mastering-korean-cooking-10-remarkable-vegetarian-recipes-to-try-today'
 ---
 
 ![Vegetarian Korean cuisine](https://cdn.pixabay.com/photo/2020/02/28/12/43/bibimbap-4887417_1280.jpg)

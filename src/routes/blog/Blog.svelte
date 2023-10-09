@@ -5,7 +5,7 @@
 
 <svelte:head>
   <title>{frontmatter.title}</title>
-  <meta name="description" content={frontmatter.excerpt} />
+  <meta name="description" content={frontmatter.meta_description} />
   <link href="{settings.origin}{request.permalink}" rel="canonical" />
 </svelte:head>
 

@@ -1,7 +1,8 @@
 ---
 title: '10 Unforgettable Secrets for Perfect My Korean Kitchen Dak Galbi'
-author: mimis-cooking
-# slug: 10-unforgettable-secrets-for-perfect-my-korean-kitchen-dak-galbi
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/10-unforgettable-secrets-for-perfect-my-korean-kitchen-dak-galbi'
 ---
 
 ![Search term: Korean cuisine traditional dishes](https://cdn.pixabay.com/photo/2015/05/02/00/57/aluminous-749358_1280.jpg)

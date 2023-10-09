@@ -36,8 +36,9 @@ const fs = require('fs');
     // create post file
     const content = `---
 title: '${title}'
-author: ${blogName}
-# slug: ${slug}
+author: '${blogName}'
+meta_description: ''
+# slug: '${blogName}/${slug}'
 ---
 
 ${allContent.join('\n\n')}

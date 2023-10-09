@@ -1,7 +1,8 @@
 ---
 title: 'Unleash the K-Cuisine: Top 10 Easy Korean Vegetarian Recipes'
-author: mimis-cooking
-# slug: unleash-the-k-cuisine-top-10-easy-korean-vegetarian-recipes
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/unleash-the-k-cuisine-top-10-easy-korean-vegetarian-recipes'
 ---
 
 ![Search term: Korean vegetarian Bibimbap](https://cdn.pixabay.com/photo/2020/02/28/12/43/bibimbap-4887417_1280.jpg)

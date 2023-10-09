@@ -1,7 +1,8 @@
 ---
 title: '10 Unforgettable Traditional Korean Recipes You Must Try'
-author: mimis-cooking
-# slug: 10-unforgettable-traditional-korean-recipes-you-must-try
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/10-unforgettable-traditional-korean-recipes-you-must-try'
 ---
 
 ![Traditional Korean cuisine image](https://cdn.pixabay.com/photo/2015/05/02/00/57/aluminous-749358_1280.jpg)

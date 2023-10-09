@@ -1,7 +1,8 @@
 ---
 title: '10 Incredible Korean Vegetarian Dishes & Where to Find Them Near You'
-author: mimis-cooking
-# slug: 10-incredible-korean-vegetarian-dishes-where-to-find-them-near-you
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/10-incredible-korean-vegetarian-dishes-where-to-find-them-near-you'
 ---
 
 ![Korean vegetarian cuisine](https://cdn.pixabay.com/photo/2020/02/28/12/43/bibimbap-4887417_1280.jpg)

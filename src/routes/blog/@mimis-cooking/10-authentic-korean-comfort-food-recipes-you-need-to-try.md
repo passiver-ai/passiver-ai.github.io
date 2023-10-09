@@ -1,7 +1,8 @@
 ---
 title: '10 Authentic Korean Comfort Food Recipes You Need to Try'
-author: mimis-cooking
-# slug: 10-authentic-korean-comfort-food-recipes-you-need-to-try
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/10-authentic-korean-comfort-food-recipes-you-need-to-try'
 ---
 
 ![Search term: Korean cuisine comfort foods](https://cdn.pixabay.com/photo/2015/05/02/00/57/aluminous-749358_1280.jpg)

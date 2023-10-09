@@ -1,7 +1,8 @@
 ---
 title: '10 Simple Korean Vegetarian Recipes: A Guide to Effortless Cooking'
-author: mimis-cooking
-# slug: 10-simple-korean-vegetarian-recipes-a-guide-to-effortless-cooking
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/10-simple-korean-vegetarian-recipes-a-guide-to-effortless-cooking'
 ---
 
 ![A suitable search term for finding an image that best represents the content above could be Korean vegetarian cuisine or Korean vegetable dishes.](https://theodehlicious.com/wp-content/uploads/2023/01/Korean-Vegetarian-Recipes.png)

@@ -1,7 +1,8 @@
 ---
 title: 'Mastering Korean Cooking: Top 10 Best Dishes to Try at Home'
-author: mimis-cooking
-# slug: mastering-korean-cooking-top-10-best-dishes-to-try-at-home
+author: 'mimis-cooking'
+meta_description: ''
+# slug: 'mimis-cooking/mastering-korean-cooking-top-10-best-dishes-to-try-at-home'
 ---
 
 ![Image of traditional Korean meal](https://cdn.pixabay.com/photo/2015/05/02/00/57/aluminous-749358_1280.jpg)
