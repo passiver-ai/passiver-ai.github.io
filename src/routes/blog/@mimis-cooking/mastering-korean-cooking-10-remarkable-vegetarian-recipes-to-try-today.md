@@ -1,7 +1,8 @@
 ---
 title: 'Mastering Korean Cooking: 10 Remarkable Vegetarian Recipes to Try Today'
-author: 'mimis-cooking'
+author: mimis-cooking
 meta_description: 'null'
+last_modified: undefined
 # slug: 'mimis-cooking/mastering-korean-cooking-10-remarkable-vegetarian-recipes-to-try-today'
 ---
 

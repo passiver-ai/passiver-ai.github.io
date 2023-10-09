@@ -18,6 +18,7 @@ const fs = require('fs');
     const title = blogPostJsonItem.title;
     const metaDescription = blogPostJsonItem.metaDescription;
     const slug = blogPostJsonItem.slug;
+    const updatedAt = blogPostJsonItem.updatedAt;
 
     if (!fs.existsSync(`src/routes/blog/@${blogName}`)) {
       fs.mkdirSync(`src/routes/blog/@${blogName}`);
@@ -37,8 +38,9 @@ const fs = require('fs');
     // create post file
     const content = `---
 title: '${title}'
-author: '${blogName}'
+author: ${blogName}
 meta_description: '${metaDescription}'
+last_modified: ${updatedAt}
 # slug: '${blogName}/${slug}'
 ---
 

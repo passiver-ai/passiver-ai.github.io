@@ -1,7 +1,8 @@
 ---
 title: '10 Unforgettable Traditional Korean Recipes You Must Try'
-author: 'mimis-cooking'
+author: mimis-cooking
 meta_description: 'null'
+last_modified: undefined
 # slug: 'mimis-cooking/10-unforgettable-traditional-korean-recipes-you-must-try'
 ---
 

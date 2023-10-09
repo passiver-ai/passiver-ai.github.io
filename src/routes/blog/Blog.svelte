@@ -1,4 +1,5 @@
 <script>
+  import Time from "svelte-time";
   export let data, request, settings; // data is mainly being populated from the @elderjs/plugin-markdown
   const { html, frontmatter } = data;
 </script>
@@ -23,7 +24,9 @@
         </h1>
         <time datetime="2022-09-05" class="order-first flex items-center text-base text-zinc-400 dark:text-zinc-500">
           <span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span>
-          <span class="ml-3">September 24, 2023</span>
+          <span class="ml-3">
+            <Time timestamp="{frontmatter.updatedAt}" format="dddd @ h:mm A · MMMM D, YYYY"></Time>
+          </span>
         </time>
       </header>
       <div class="mt-8 prose dark:prose-invert" data-mdx-content="true">
