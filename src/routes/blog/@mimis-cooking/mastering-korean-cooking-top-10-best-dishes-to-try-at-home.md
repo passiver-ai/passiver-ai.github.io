@@ -1,8 +1,8 @@
 ---
 title: 'Mastering Korean Cooking: Top 10 Best Dishes to Try at Home'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Unlock the World of Korean Cuisine: Explore the Foundations of Flavor, Culture, and Health. From Fresh Ingredients to Balanced Meals and the Role of Fermentation, Discover the Essence of Korean Cooking'
+last_modified: 2023-10-09T05:58:23.274Z
 # slug: 'mimis-cooking/mastering-korean-cooking-top-10-best-dishes-to-try-at-home'
 ---
 

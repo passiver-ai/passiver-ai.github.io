@@ -1,8 +1,8 @@
 ---
 title: '10 Authentic Korean Comfort Food Recipes You Need to Try'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Discover the essence of Korean comfort food with our top 10 must-try recipes. From flavorful Kimchi Fried Rice to iconic Jjajangmyeon and spicy Tteokbokki, explore a world of Korean culinary delights!'
+last_modified: 2023-09-28T15:51:01.994Z
 # slug: 'mimis-cooking/10-authentic-korean-comfort-food-recipes-you-need-to-try'
 ---
 

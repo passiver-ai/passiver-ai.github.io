@@ -1,8 +1,8 @@
 ---
 title: '25 Unforgettable Korean Foods You Must Try: The Ultimate Guide to Korean Cooking'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Discover the World of Korean Cuisine: Dive into its Rich Culinary History and How Seasonal & Regional Influences Shape its Unique Flavors. From Ancient Traditions to Modern Delights, Explore the Essence of Korean Food.'
+last_modified: 2023-10-09T07:27:16.305Z
 # slug: 'mimis-cooking/25-unforgettable-korean-foods-you-must-try-the-ultimate-guide-to-korean-cooking'
 ---
 

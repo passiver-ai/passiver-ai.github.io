@@ -1,8 +1,8 @@
 ---
 title: '10 Incredible Korean Vegetarian Dishes & Where to Find Them Near You'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Discover the Distinctive World of Korean Vegetarian Cuisine: Unveiling the Core Principles of Balance, Seasonality, and Flavor Maximization. From Yin and Yang Harmony to Fermented Delights, Explore the Uniqueness of Traditional Korean Plant-Based Eating'
+last_modified: 2023-10-09T06:12:19.411Z
 # slug: 'mimis-cooking/10-incredible-korean-vegetarian-dishes-where-to-find-them-near-you'
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: '10 Unforgettable Traditional Korean Recipes You Must Try'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Explore the Art of Korean Cooking: Discover the Basics of Korean Cuisine and the Importance of Balance in Flavor, Texture, and Presentation. From Essential Ingredients to Harmonious Dishes, Dive into the World of Korean Culinary Delights.'
+last_modified: 2023-10-09T06:19:34.541Z
 # slug: 'mimis-cooking/10-unforgettable-traditional-korean-recipes-you-must-try'
 ---
 

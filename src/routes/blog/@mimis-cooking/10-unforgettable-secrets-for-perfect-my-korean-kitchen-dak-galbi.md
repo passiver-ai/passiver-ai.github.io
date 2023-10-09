@@ -1,8 +1,8 @@
 ---
 title: '10 Unforgettable Secrets for Perfect My Korean Kitchen Dak Galbi'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Exploring the Richness of Korean Food Culture: From Traditional Beliefs to Exciting Flavors, Discover Why Choosing Korean Cooking Is a Delightful Culinary Adventure. Dive into the World of Healthy, Communal, and Easy-to-Follow Korean Recipes and Cultivate a Deeper Appreciation for This Vibrant Cuisine'
+last_modified: 2023-10-09T05:06:26.900Z
 # slug: 'mimis-cooking/10-unforgettable-secrets-for-perfect-my-korean-kitchen-dak-galbi'
 ---
 

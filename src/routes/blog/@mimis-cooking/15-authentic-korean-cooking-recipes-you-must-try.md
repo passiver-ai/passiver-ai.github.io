@@ -1,8 +1,8 @@
 ---
 title: '15 Authentic Korean Cooking Recipes You Must Try'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Explore the World of Korean Cuisine: Uncover its Rich History, Global Popularity, and Unique Flavors. From Fermentation Techniques to Balanced Flavors, Discover What Sets Korean Food Apart.'
+last_modified: 2023-10-09T06:34:07.790Z
 # slug: 'mimis-cooking/15-authentic-korean-cooking-recipes-you-must-try'
 ---
 

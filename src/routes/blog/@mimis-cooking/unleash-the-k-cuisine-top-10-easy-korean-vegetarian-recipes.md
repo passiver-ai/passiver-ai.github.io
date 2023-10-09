@@ -1,8 +1,8 @@
 ---
 title: 'Unleash the K-Cuisine: Top 10 Easy Korean Vegetarian Recipes'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Explore the magical world of Korean cuisine with a focus on its vegetarian potential. Discover the rich history, bold flavors, and fermentation traditions that define Korean cooking. While known for meat-heavy dishes, like bulgogi, Korean cuisine offers abundant vegetarian options, from tofu Bibimbap to soy-based mock meats. Korean street food and temple cuisine also cater to vegetarians, showcasing creativity with seasonal produce. Dive into the vibrant and diverse world of Korean vegetarian cuisine'
+last_modified: 2023-09-28T15:27:08.596Z
 # slug: 'mimis-cooking/unleash-the-k-cuisine-top-10-easy-korean-vegetarian-recipes'
 ---
 

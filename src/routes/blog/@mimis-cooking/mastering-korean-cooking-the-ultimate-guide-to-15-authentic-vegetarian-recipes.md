@@ -2,7 +2,7 @@
 title: 'Mastering Korean Cooking: The Ultimate Guide to 15 Authentic Vegetarian Recipes'
 author: mimis-cooking
 meta_description: 'Embark on a culinary journey and learn the art of Korean cooking. Discover 15 authentic vegetarian recipes that are as nutritious as they are delicious.'
-last_modified: undefined
+last_modified: 2023-10-09T07:52:10.067Z
 # slug: 'mimis-cooking/mastering-korean-cooking-the-ultimate-guide-to-15-authentic-vegetarian-recipes'
 ---
 

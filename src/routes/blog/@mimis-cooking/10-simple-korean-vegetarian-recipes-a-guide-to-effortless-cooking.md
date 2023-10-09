@@ -1,8 +1,8 @@
 ---
 title: '10 Simple Korean Vegetarian Recipes: A Guide to Effortless Cooking'
 author: mimis-cooking
-meta_description: 'null'
-last_modified: undefined
+meta_description: 'Exploring the World of Korean Vegetarian Cuisine: Discover the Basics, Health Benefits, and 20 Delectable Recipes. From Fresh Ingredients to Balanced Meals, Dive into the Unique Flavors of Korean Plant-Based Cooking'
+last_modified: 2023-10-09T05:27:32.483Z
 # slug: 'mimis-cooking/10-simple-korean-vegetarian-recipes-a-guide-to-effortless-cooking'
 ---
 
