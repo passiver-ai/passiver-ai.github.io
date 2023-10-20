@@ -59,8 +59,8 @@
               <div class="relative px-4 sm:px-8 lg:px-12">
                 <div class="mx-auto max-w-2xl lg:max-w-5xl">
                   <div class="relative flex gap-4">
-                    <div class="flex flex-1 text-xl font-light">
-                      pages.network
+                    <div class="flex flex-1 text-base font-light">
+                      <a href="/">pages.network</a>
                     </div>
                     <div class="flex flex-1 justify-end md:justify-center">
                       <div class="pointer-events-auto md:hidden" data-headlessui-state="">
@@ -107,7 +107,7 @@
       </header>
 
       <main class="flex-auto">
-        <div class="sm:px-8 mt-16 sm:mt-32">
+        <div class="sm:px-8 mt-8 sm:mt-16">
           <div class="mx-auto w-full max-w-7xl lg:px-8">
             <div class="relative px-4 sm:px-8 lg:px-12">
               <div class="mx-auto max-w-2xl lg:max-w-5xl">

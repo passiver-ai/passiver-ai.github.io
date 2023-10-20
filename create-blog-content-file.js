@@ -37,9 +37,9 @@ const fs = require('fs');
 
     // create post file
     const content = `---
-title: '${title}'
+title: "${title.replace(/"/g, '\\"')}"
 author: ${blogName}
-meta_description: '${metaDescription}'
+meta_description: "${metaDescription.replace(/"/g, '\\"')}"
 last_modified: ${updatedAt}
 # slug: '${blogName}/${slug}'
 ---

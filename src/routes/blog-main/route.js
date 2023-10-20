@@ -7,8 +7,6 @@ module.exports = {
       res.json(),
     );
 
-    console.log(blogsJson);
-
     return blogsJson;
   },
   // the permalink function takes a 'request' object and returns a relative permalink. In this case "/"
@@ -23,10 +21,7 @@ module.exports = {
   data: ({ data, request, allRequests }) => {
     if (allRequests.length) {
       data.blogName = request.blogName;
-      data.post = allRequests.filter(
-        (item) => item.blogName === request.blogName && item.route === 'blog-main',
-      )[0].post;
-      console.log(data.post);
+      data.post = allRequests.filter((item) => item.blogName === request.blogName && item.route === 'blog-main')[0].post;
     }
 
     // The data function populates what data should be in available in our Svelte template.
