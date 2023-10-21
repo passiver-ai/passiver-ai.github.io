@@ -18,7 +18,7 @@
         },
       },
     };
-  </script><!-- HEAD_svelte-17xepw5_END --><link rel="stylesheet" href="/_elderjs/assets/svelte-e9d8f298.css" media="all" /><style></style></head><body class="hooks">
+  </script><!-- HEAD_svelte-17xepw5_END --><link rel="stylesheet" href="/_elderjs/assets/svelte-60d89c9f.css" media="all" /><style></style></head><body class="hooks">
 
 
 <div class="flex h-full bg-zinc-50"><div class="flex w-full"><div class="fixed inset-0 flex justify-center sm:px-8"><div class="flex w-full max-w-7xl lg:px-8"><div class="w-full bg-white ring-1 ring-zinc-100 dark:bg-zinc-900 dark:ring-zinc-300/20"></div></div></div>
@@ -56,15 +56,15 @@
 
       <main class="flex-auto"><div class="sm:px-8 mt-8 sm:mt-16"><div class="mx-auto w-full max-w-7xl lg:px-8"><div class="relative px-4 sm:px-8 lg:px-12"><div class="mx-auto max-w-2xl lg:max-w-5xl"><!-- HTML_TAG_START -->
 
-<a href="/" class="svelte-bvr7j8">← Home</a>
+<a href="/" class="svelte-6ghev4">← Home</a>
 
 <h1>Elder.js Hook: middleware</h1>
 
-<div class="hook svelte-azdmmt">
+<div class="hook svelte-obuov5">
 
-  <div class="overview svelte-azdmmt"><span class="hook-name">middleware</span>
+  <div class="overview svelte-obuov5"><span class="hook-name">middleware</span>
     : Fired upon a request that originates from the express/polka middleware version of Elder.js. The hook has access to "req" and "next" common in express like middleware.</div>
-  <div class="use svelte-azdmmt"><!-- HTML_TAG_START --><p>If you're looking to use Elder.js with express/polka to build a server rendered website, then you'll be interested in this hook as it includes the familiar 'req' and 'next' objects as often used in Express middleware.</p>
+  <div class="use svelte-obuov5"><!-- HTML_TAG_START --><p>If you're looking to use Elder.js with express/polka to build a server rendered website, then you'll be interested in this hook as it includes the familiar 'req' and 'next' objects as often used in Express middleware.</p>
     <ul>
     <li>Under the hood Elder.js uses this hook to power the server implementation.</li>
     <li>If you want to change the route of a request, you can do so by modifying the 'request.route' to the name of the new request, and it will be picked up by the default Elder.js server.</li>
@@ -73,35 +73,35 @@
     <li>Anything you'd use an Express 'req' or 'next' for you can do and customize other parts of the Elder.js on this hook.</li>
     </ul><!-- HTML_TAG_END --></div>
 
-  <div class="list svelte-azdmmt"><strong>Props</strong> : <div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="Includes two functions: perf.start('thingToTrack') and perf.end('thingToTrack') which allows easily adding tracking to Elder.js' perf reporting which can be toggled under debug.performance in your elder.config.js file.">perf
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of errors collected during the build process.">errors
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is initially empty but is reserved for plugins and sites to add database or api access to.">query
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object of helpers loaded from `./src/helpers/index.js` in addition to the Elder.js provided helper functions.">helpers
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is passed to Svelte templates as the &quot;data&quot; prop.">data
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object representing the elder.config.js and other details about the build.">settings
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="Every request object collected from all routes during bootstrap. It is important to note that 'allRequests' will be different at the 'request' hook during a build because the requests are split between different processes during build time using the allRequests object.">allRequests
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents all of the routes registered with Elder.js.">routes
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'req' object from Express or Polka when Elder.js is being used as a server.">req
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'next' object from Express or Polka when Elder.js is being used as a server.">next
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'res' object from Express or Polka when Elder.js is being used as a server.">res
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="A key value object where the key is the relative permalink and the object is the 'request' object used by the Elder.js server.">serverLookupObject
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The function that powers hooks. 'await runhook('hookName', objectContainingProps)">runHook
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of shortcode definitions that are processed on the 'shortcodes' hook.">shortcodes
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents the parameters required to generate a specific page on a specific route. This object originating from the all() query of a route.js file.">request
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The Elder.js router that handles dynamic requests and explicit requests">router
+  <div class="list svelte-obuov5"><strong>Props</strong> : <div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="Includes two functions: perf.start('thingToTrack') and perf.end('thingToTrack') which allows easily adding tracking to Elder.js' perf reporting which can be toggled under debug.performance in your elder.config.js file.">perf
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of errors collected during the build process.">errors
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is initially empty but is reserved for plugins and sites to add database or api access to.">query
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object of helpers loaded from `./src/helpers/index.js` in addition to the Elder.js provided helper functions.">helpers
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is passed to Svelte templates as the &quot;data&quot; prop.">data
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object representing the elder.config.js and other details about the build.">settings
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="Every request object collected from all routes during bootstrap. It is important to note that 'allRequests' will be different at the 'request' hook during a build because the requests are split between different processes during build time using the allRequests object.">allRequests
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents all of the routes registered with Elder.js.">routes
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'req' object from Express or Polka when Elder.js is being used as a server.">req
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'next' object from Express or Polka when Elder.js is being used as a server.">next
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'res' object from Express or Polka when Elder.js is being used as a server.">res
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="A key value object where the key is the relative permalink and the object is the 'request' object used by the Elder.js server.">serverLookupObject
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The function that powers hooks. 'await runhook('hookName', objectContainingProps)">runHook
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of shortcode definitions that are processed on the 'shortcodes' hook.">shortcodes
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents the parameters required to generate a specific page on a specific route. This object originating from the all() query of a route.js file.">request
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The Elder.js router that handles dynamic requests and explicit requests">router
       </div></div>
-  <div class="list svelte-azdmmt"><strong>Mutable</strong> : <div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of errors collected during the build process.">errors
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is initially empty but is reserved for plugins and sites to add database or api access to.">query
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object of helpers loaded from `./src/helpers/index.js` in addition to the Elder.js provided helper functions.">helpers
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is passed to Svelte templates as the &quot;data&quot; prop.">data
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object representing the elder.config.js and other details about the build.">settings
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="Every request object collected from all routes during bootstrap. It is important to note that 'allRequests' will be different at the 'request' hook during a build because the requests are split between different processes during build time using the allRequests object.">allRequests
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents all of the routes registered with Elder.js.">routes
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'req' object from Express or Polka when Elder.js is being used as a server.">req
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'next' object from Express or Polka when Elder.js is being used as a server.">next
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'res' object from Express or Polka when Elder.js is being used as a server.">res
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents the parameters required to generate a specific page on a specific route. This object originating from the all() query of a route.js file.">request
-      </div><div class="code svelte-azdmmt" data-balloon-length="medium" data-balloon-pos="up" aria-label="A key value object where the key is the relative permalink and the object is the 'request' object used by the Elder.js server.">serverLookupObject
+  <div class="list svelte-obuov5"><strong>Mutable</strong> : <div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An array of errors collected during the build process.">errors
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is initially empty but is reserved for plugins and sites to add database or api access to.">query
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object of helpers loaded from `./src/helpers/index.js` in addition to the Elder.js provided helper functions.">helpers
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that is passed to Svelte templates as the &quot;data&quot; prop.">data
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object representing the elder.config.js and other details about the build.">settings
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="Every request object collected from all routes during bootstrap. It is important to note that 'allRequests' will be different at the 'request' hook during a build because the requests are split between different processes during build time using the allRequests object.">allRequests
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents all of the routes registered with Elder.js.">routes
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'req' object from Express or Polka when Elder.js is being used as a server.">req
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'next' object from Express or Polka when Elder.js is being used as a server.">next
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="The 'res' object from Express or Polka when Elder.js is being used as a server.">res
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="An object that represents the parameters required to generate a specific page on a specific route. This object originating from the all() query of a route.js file.">request
+      </div><div class="code svelte-obuov5" data-balloon-length="medium" data-balloon-pos="up" aria-label="A key value object where the key is the relative permalink and the object is the 'request' object used by the Elder.js server.">serverLookupObject
       </div></div>
 
   <div><small>This hook is an &#39;advanced&#39; hook meaning it geared towards advanced users or plugins.</small></div>
